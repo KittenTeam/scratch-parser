@@ -37,7 +37,7 @@
         },
         "assetId": {
             "type": "string",
-            "pattern": "^[a-fA-F0-9]{32}$"
+            "pattern": "^[a-fA-F0-9]"
         },
         "costume": {
             "type": "object",
@@ -52,7 +52,7 @@
                 },
                 "md5ext": {
                     "type": "string",
-                    "pattern": "^[a-fA-F0-9]{32}\\.[a-zA-Z]+$"
+                    "pattern": "^[a-fA-F0-9]"
                 },
                 "name": {
                     "type": "string"
@@ -82,7 +82,7 @@
                 },
                 "md5ext": {
                     "type": "string",
-                    "pattern": "^[a-fA-F0-9]{32}\\.[a-zA-Z0-9]+$"
+                    "pattern": "^[a-fA-F0-9]"
                 },
                 "name": {
                     "type": "string"
@@ -145,7 +145,7 @@
                 },
                 {
                     "type": "string",
-                    "pattern": "^#[a-fA-F0-9]{6}$"
+                    "pattern": "^[a-fA-F0-9]"
                 }
             ],
             "additionalItems": false
