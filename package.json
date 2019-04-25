@@ -1,13 +1,14 @@
 {
-  "name": "scratch-parser",
+  "name": "@kitten-team/scratch-parser",
+  "version": "1.0.0",
   "description": "Parser for Scratch projects",
   "author": "MIT Media Lab",
   "license": "BSD-3-Clause",
-  "homepage": "https://github.com/LLK/scratch-parser#readme",
+  "homepage": "https://github.com/KittenTeam/scratch-parser/",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/LLK/scratch-parser.git"
+    "url": "https://github.com/KittenTeam/scratch-parser.git"
   },
   "scripts": {
     "commitmsg": "commitlint -e $GIT_PARAMS",
@@ -45,6 +46,5 @@
     "commitizen": {
       "path": "./node_modules/cz-conventional-changelog"
     }
-  },
-  "version": "0.0.0-development"
+  }
 }
