@@ -1,5 +1,5 @@
 # scratch-parser
-[Codemao说明](./readme_zh.md)<br>
+[Codemao说明](./README_zh.md)<br>
 #### Parser for Scratch projects
 
 [![Build Status](https://travis-ci.org/LLK/scratch-parser.svg?branch=develop)](https://travis-ci.org/LLK/scratch-parser)
