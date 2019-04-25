@@ -1,5 +1,5 @@
 # scratch-parser
-
+[Codemao说明](./package.json)<br>
 #### Parser for Scratch projects
 
 [![Build Status](https://travis-ci.org/LLK/scratch-parser.svg?branch=develop)](https://travis-ci.org/LLK/scratch-parser)
