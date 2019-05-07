@@ -145,7 +145,7 @@
                 },
                 {
                     "type": "string",
-                    "pattern": "^[a-fA-F0-9]"
+                    "pattern": "^#[a-fA-F0-9]{6}$"
                 }
             ],
             "additionalItems": false
